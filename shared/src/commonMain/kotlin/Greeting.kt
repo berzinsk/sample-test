@@ -19,6 +19,10 @@ class Greeting {
         return person.firstName + " " + person.lastName
     }
 
+    fun test() {
+        
+    }
+
     fun createRandomPerson(): Person {
         return Person(firstName = "John", lastName = "Doe", age = 30)
     }
