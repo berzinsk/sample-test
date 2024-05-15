@@ -23,6 +23,9 @@ class Greeting {
 
     }
 
+    fun nonSubModule() {
+    }
+
     fun afterDeletion() {
 
     }
