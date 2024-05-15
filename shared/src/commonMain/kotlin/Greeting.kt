@@ -15,21 +15,6 @@ class Greeting {
         return firstWord
     }
 
-    fun someNewFeature() {
-
-    }
-
-    fun printText() {
-
-    }
-
-    fun nonSubModule() {
-    }
-
-    fun afterDeletion() {
-
-    }
-
     fun getNameFor(person: Person): String {
         return person.firstName + " " + person.lastName
     }
